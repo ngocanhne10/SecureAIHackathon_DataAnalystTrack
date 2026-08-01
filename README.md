@@ -20,3 +20,20 @@ Variables: Grocery, home necessity, entertainment, and impulsive buying.
 
 **Core workflow:** Dataset, user questions, verified answer and evidence. 
 
+**Setup:** 
+Python 3.9+ and pip.
+bash
+git clone: https://github.com/ngocanhne10/Student-budget-analyst
+cd student-budget-analyst
+
+**Installation**
+bash
+pip install -r requirements.txt
+Installs: `streamlit`, `pandas`, `plotly` — all open source, no accounts or
+API keys required.
+
+**Execution**: bash
+streamlit run app.py
+
+
+
